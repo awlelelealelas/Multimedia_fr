@@ -2,7 +2,7 @@ MULTIMEDIA
 
 Links to everywhere: 
 <br>
-<table>
+
 <P>even though im using this tag its not gonna work cuz its a .md file and not html file</p>
 <tr>
 <td><a href="https://awlelelealelas.github.io/Multimedia_fr/images.html"> Image </a></td>
@@ -19,5 +19,4 @@ Links to everywhere:
 
 <td><a href="https://awlelelealelas.github.io/Multimedia_fr/text.html"> Text </a></td>
 
-</tr>
-</table>
+
